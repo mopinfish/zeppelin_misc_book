@@ -1,0 +1,43 @@
+{
+  "paragraphs": [
+    {
+      "user": "anonymous",
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "apps": [],
+      "jobName": "paragraph_1548454395225_-1270494830",
+      "id": "20190125-221315_1788496883",
+      "dateCreated": "Jan 25, 2019 10:13:15 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "~Trash/video_sample",
+  "id": "2E1YQDHHQ",
+  "angularObjects": {
+    "2E1F7XP5Z:shared_process": [],
+    "2E1RGECZ9:shared_process": [],
+    "2E17SFUTJ:shared_process": [],
+    "2E4ZXJ37F:shared_process": [],
+    "2E1G4X4S4:shared_process": [],
+    "2E52FY51Y:shared_process": [],
+    "2E547GUR2:shared_process": [],
+    "2E3UU9QHV:shared_process": [],
+    "2E313TWF6:shared_process": [],
+    "2E3HKMMB4:shared_process": [],
+    "2E1SKPBPP:shared_process": [],
+    "2E4YCHHRU:shared_process": [],
+    "2E3H226ZU:shared_process": [],
+    "2E2NXQW6A:shared_process": [],
+    "2E485TV3T:shared_process": [],
+    "2E27499NH:shared_process": [],
+    "2E173V2CP:shared_process": [],
+    "2E3D44VY9:shared_process": [],
+    "2E3XWSMJQ:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}
