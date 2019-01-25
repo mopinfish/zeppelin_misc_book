@@ -38,11 +38,20 @@
     {
       "text": "%sql\n \nselect * from game_sales\nwhere Platform \u003d \u0027NES\u0027 -- NESはファミコンのことです。\norder by JP_Sales desc\nlimit 30",
       "user": "anonymous",
-      "dateUpdated": "Jan 25, 2019 10:21:51 PM",
+      "dateUpdated": "Jan 25, 2019 10:37:08 PM",
       "config": {
         "colWidth": 12.0,
         "enabled": true,
-        "results": {},
+        "results": {
+          "0": {
+            "graph": {
+              "mode": "table",
+              "height": 300.0,
+              "optionOpen": false
+            },
+            "helium": {}
+          }
+        },
         "editorSetting": {
           "language": "sql"
         },
@@ -65,8 +74,8 @@
       "jobName": "paragraph_1548454613270_-838115332",
       "id": "20190125-221653_1227379232",
       "dateCreated": "Jan 25, 2019 10:16:53 PM",
-      "dateStarted": "Jan 25, 2019 10:21:51 PM",
-      "dateFinished": "Jan 25, 2019 10:21:57 PM",
+      "dateStarted": "Jan 25, 2019 10:36:40 PM",
+      "dateFinished": "Jan 25, 2019 10:36:41 PM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
